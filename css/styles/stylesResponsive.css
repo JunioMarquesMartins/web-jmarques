@@ -1,0 +1,456 @@
+@media only screen and (max-width :320px){#aptitudes h2,#blog h2,#contacto h2,#foto_cv h2,#main_contents_left h2,#trabajos h2,.animateLeftfx{left:0}
+#menuSidebar,#nav li,.intro_blog,.linksMedios,.title_post{text-align:center}
+#nav,#telefono,.descripcion,.foto,.grid-item,.left,.mis_trabajos,form{float:none}
+.image-md{display:none}
+.image-sm{display:block}
+.instagram{display:block!important;width:100%!important;margin:5px 0!important}
+#miSkill{background-color:transparent;bottom:50px}
+.grid{display:block}
+.grid-item,.grid-item--width2{width:100%}
+.grid-item{padding:5px;overflow:hidden}
+.galery .imageFrame{width:100%!important;top:0!important}
+.galery .intro_galery p{text-shadow:0 0 0;color:#858585}
+.ribbonguru{top:120px!important}
+#main_contents_right,#nav,.job01{top:0}
+.bxTextMedios{width:100%}
+.bxTextMedios .title_menciones{font-size:50px}
+.icon_medio{margin-bottom:10px}
+.layer1{background-size:11%;background-position:10% 5%}
+.layer2{background-size:40%;background-position:30% 10%}
+.layer3{background-size:50%;background-position:84% 80%}
+.layer4{background-size:30%;background-position:60% bottom}
+.layer5{background-size:20%;background-position:20% 80%}
+.boxFrases .bxImages{display:block;width:100%}
+#box_indicador,#menuSidebar a:hover>.sidebarTextHidden,#nav,.blogHover{display:none}
+#wrapper_top01,.wrapper{width:94%;padding:15px 0}
+#iframe-blog{width:100%}
+#c{margin:0 0 0 12px}
+.textSocial{margin-right:10px}
+.aspas{background:url(../../img/aspas.png) no-repeat;background-size:cover}
+.animateRightfx{right:0}
+.detalle_servicio{width:260px}
+#menu{padding:0;background:rgba(19,18,18,.7);box-shadow:0 0 18px #000}
+#menuSidebar{width:100%;bottom:0;left:0;top:inherit;margin:0;z-index:999;border-radius:0}
+#menuSidebar a{display:inline-block;margin:0 5px;vertical-align:top;background-position:0!important}
+#jm{display:block!important;margin:10px auto!important;width:180px!important}
+.jmBefore{width:50px!important;height:50px!important}
+#jm img{width:180px!important}
+#responsive_menu{display:block;float:right}
+#nav{margin:auto;width:100%;padding:40px 0 15px}
+#social{margin:30px auto 0;display:block;width:170px}
+.facebook,.google,.linkedin,.twitter{width:38px;height:38px}
+#nav li{margin:0 auto;padding:5px 0;font-size:18px;display:block}
+#main_picture,#service:after,#service:before,.mobileHidden{display:none}
+nav ul li ul{top:124px;left:100px}
+#main_picture img{width:100%}
+.box_miFoto{left:50%;margin:0 0 20px -100px}
+.box_text_sobreMi{width:100%;margin-left:0;padding:220px 15px 15px;border-radius:10px;background:#fff;color:#000}
+#service{margin:10px auto 5px;width:98%}
+#service h1{line-height:50px}
+#miSkill{margin-bottom:20px}
+#flecha{display:none!important}
+#textSkill{font-size:16px}
+.accion:before{right:32%}
+.accion:after{left:31%}
+.my_music_fav{margin:380px 0 0}
+#main_header{height:550px}
+#main_header:after{top:446px}
+.t1{font-size:20px}
+.t2{font-size:30px}
+#perfil img{width:100%}
+.ribbon{display:none}
+.transAnimator{font-size:12px}
+#aptitudes h2,#blog h2,#contacto h2,#foto_cv h2,#main_contents_left h2,#trabajos h2{font-size:48px;display:block;margin:0 auto 10px;opacity:1}
+#main_contents_left,#main_contents_right{float:none;opacity:1;width:100%}
+#main_contents_right:before{left:6px;z-index:0;top:163px}
+#musica p:before{margin:252px 10px 0 0}
+#contentFrase{width:100%}
+#main_contents_right h3{font-size:24px;padding:0;margin:10px auto;display:block;width:100%}
+#frases p{font-size:17px;color:#3F3F3F}
+#frases,#musica{margin:0;width:100%}
+#video{margin:40px 0 20px;width:100%}
+.contentMedia{margin-bottom:0}
+#main_contents_right,#sobre_mi,#twitter{margin:0 auto 30px;width:100%}
+#sobre_mi{color:#000}
+#twitter h3{font-size:24px}
+#musica p,#sobre_mi p,#video p{font-size:14px;color:#000}
+iframe{width:152px;min-width:152px}
+#aptitudes,#blog,#contacto,#quien_soy,#trabajos{padding:15px 0}
+#trabajos{background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…BoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:-webkit-gradient(radial,center center,0,center center,100%,color-stop(0,rgba(108,148,183,1)),color-stop(44%,rgba(99,128,168,1)),color-stop(100%,rgba(63,76,107,1)));background:-webkit-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:-o-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:-ms-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:radial-gradient(ellipse at center,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6c94b7', endColorstr='#3f4c6b', GradientType=1)}
+#quien_soy{background:#EDEBEB}
+.mis_trabajos{width:92%;margin:0 auto 20px;opacity:1}
+#main_slideDown{opacity:1}
+.cerrar_slider,.text_slider{padding:1%;width:98%;font-size:1.1em}
+.text_slider:after,.text_slider:before{display:none}
+#cv{width:192px;margin:auto}
+#foto_cv{width:90%}
+.foto{margin:0}
+.foto img{width:100%}
+#foto_cv a{width:88%;font-size:12px;margin-bottom:4px}
+#proyectos{width:180px;margin:auto}
+.mis_proyectos01 img,.mis_proyectos02 img,.mis_proyectos03 img,.mis_proyectos04 img,.mis_proyectos05 img,.mis_proyectos06 img{width:100%}
+.mis_proyectos01,.mis_proyectos02,.mis_proyectos03,.mis_proyectos04,.mis_proyectos05,.mis_proyectos06{margin:0 0 10px;width:98%}
+.info01 a,.info02 a,.info03 a,.info04 a,.info05 a,.info06 a{font-size:14px}
+.info01,.info02,.info03{width:65%;height:65%}
+.info04,.info05{width:67%;height:35%}
+.info06{width:66%;height:26%}
+.main_descript p{font-size:12px}
+.descripcion,.foto{width:100%}
+.descripcion h3{font-size:14px;margin:0 0 10px}
+.post,.post_end,form{margin:0 auto 10px;display:block}
+.descripcion p{font-size:11px}
+.descripcion a{font-size:10px}
+.post,.post_end{width:88%}
+.intro_blog{font-size:76%}
+.post img,.post_end img{width:100%;height:94px}
+.post p,.post_end p{font-size:10px}
+.title_post{font-size:18px}
+#textarea_form:before{top:76px;left:7px}
+#email,#message,#name,#tel{width:98%;height:20px}
+#input_form,#telefono,#textarea_form{display:block;width:100%;margin:auto}
+form{max-width:320px;width:100%}
+#telefono{margin:auto;display:block;width:182px}
+footer a,footer p{display:block;margin:12px auto;width:170px;font-size:11px}
+#social a{width:40px;height:40px;margin:0 4px;display:inline-block}
+.textSocial{display:block;margin-bottom:20px}
+footer .up:before{left:30px;top:-12px}
+#wrapper_top{padding:10px 0;width:94%}
+#aptitudes p{width:125px;font-size:12px}
+progress{width:98%;height:24px}
+#wrapper_top01{top:0;box-shadow:none}
+.up{top:-34px}
+.entradas{width:100%}
+}
+@media only screen and (min-width :320px) and (max-width :480px){#center_footer,#menuSidebar,#nav li,#social,.intro_blog,.linksMedios,.title_post{text-align:center}
+#aptitudes,#wrapper_top{position:inherit}
+.image-md{display:none}
+.image-sm{display:block}
+#miSkill{background-color:transparent;bottom:50px}
+.instagram{display:block!important;width:100%!important;margin:5px 0!important}
+.grid{display:block}
+.grid-item,.grid-item--width2{width:100%}
+.grid-item{float:none;padding:5px;overflow:hidden}
+.galery .imageFrame{width:100%!important;top:0!important}
+.galery .intro_galery p{text-shadow:0 0 0;color:#858585}
+.ribbonguru{top:120px!important}
+.left{float:none}
+.bxTextMedios{width:100%}
+.bxTextMedios .title_menciones{font-size:50px}
+.icon_medio{margin-bottom:10px}
+.layer1{background-size:11%;background-position:10% 5%}
+.layer2{background-size:40%;background-position:30% 10%}
+.layer3{background-size:50%;background-position:84% 80%}
+.layer4{background-size:30%;background-position:60% bottom}
+.layer5{background-size:20%;background-position:20% 80%}
+.job01{top:0}
+.boxFrases .bxImages{display:block;width:100%}
+#box_indicador,#menuSidebar a:hover>.sidebarTextHidden,.descripcion,.menuSidebar,.ribbon,nav{display:none}
+.detalle_servicio{margin-left:2%}
+#wrapper_top01,.wrapper{width:94%;padding:0}
+#iframe-blog{width:100%}
+.aspas{background:url(../../img/aspas.png) no-repeat;background-size:cover}
+select{width:98%}
+.animateLeftfx{left:0}
+video{width:280px}
+.animateRightfx{right:0}
+.descripcion{font-size:12px;line-height:14px}
+#menu{background:rgba(19,18,18,.7);box-shadow:0 0 18px #000}
+#menuSidebar{display:block;width:100%;bottom:0;left:0;top:inherit;margin:0;z-index:999;border-radius:0}
+#menuSidebar a{display:inline-block;margin:0 5px;vertical-align:top;background-position:0!important}
+#jm,#nav li{display:block}
+#jm{width:auto!important;margin:0}
+.jmBefore{-webkit-transition:all .3s cubic-bezier(1,-.28,.25,1);-moz-transition:all .3s cubic-bezier(1,-.28,.25,1);-ms-transition:all .3s cubic-bezier(1,-.28,.25,1);-o-transition:all .3s cubic-bezier(1,-.28,.25,1);transition:all .3s cubic-bezier(1,-.28,.25,1);width:58px;height:58px}
+#responsive_menu{display:block;float:right}
+nav{width:100%;padding:40px 0 15px}
+.contentMedia{margin-bottom:20px}
+#frases,#nav li{margin:0}
+#nav li{padding:8px 0;font-size:22px}
+#service:after,#service:before,.mobileHidden,.tr{display:none}
+#jm img{width:260px;-webkit-transition:all .3s cubic-bezier(1,-.33,0,1.28);-moz-transition:all .3s cubic-bezier(1,-.33,0,1.28);-ms-transition:all .3s cubic-bezier(1,-.33,0,1.28);-o-transition:all .3s cubic-bezier(1,-.33,0,1.28);transition:all .3s cubic-bezier(1,-.33,0,1.28)}
+#main_header{padding:80px 0 0;height:540px}
+.box_miFoto{left:50%;margin:0 0 20px -100px}
+.box_text_sobreMi{width:100%;margin-left:0;padding:220px 15px 15px;border-radius:10px;background:#fff;color:#000}
+#frases p,#musica p,#video p{color:#3F3F3F}
+#social{margin-top:20px}
+nav ul li ul{top:124px;left:100px}
+#main_picture{display:inline-block;position:relative}
+#service{margin-bottom:20px}
+.mis_trabajos{width:98%;margin:0 0 10px}
+#contentFrase,#main_contents_right h3,#musica,#perfil img,#video{width:100%}
+#flecha{display:none!important}
+#trabajos{background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2Yzk0YjciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI0NCUiIHN0b3AtY29sb3I9IiM2MzgwYTgiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjM2Y0YzZiIiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:-webkit-gradient(radial,center center,0,center center,100%,color-stop(0,rgba(108,148,183,1)),color-stop(44%,rgba(99,128,168,1)),color-stop(100%,rgba(63,76,107,1)));background:-webkit-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:-o-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:-ms-radial-gradient(center,ellipse cover,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);background:radial-gradient(ellipse at center,rgba(108,148,183,1) 0,rgba(99,128,168,1) 44%,rgba(63,76,107,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#6c94b7', endColorstr='#3f4c6b', GradientType=1 )}
+#miSkill p{font-size:14px}
+.accion:before{right:41%}
+.accion:after{left:42%}
+#main_header:after{top:446px}
+#service h1{line-height:55px}
+.t1{font-size:28px}
+.t2{font-size:40px}
+#blog h2,#contacto h2,#foto_cv h2,#main_contents_left h2{width:270px;display:block}
+#main_contents_left,#main_contents_right{float:none;opacity:1!important;display:block;width:100%}
+#main_contents_right,#sobre_mi,#twitter{width:90%;margin:0 auto}
+#main_contents_left,#musica{margin-bottom:40px}
+#video{margin:20px 0}
+#main_contents_right:before{left:83px;z-index:0;top:248px}
+#musica p:before{margin:294px 0 0}
+.playlist{background:#333}
+.ListaInfo{background:#282828}
+#main_contents_right h3{font-size:30px;padding:0}
+#frases p{padding:4%;font-size:18px}
+.my_music_fav{margin:400px 20px 0 0}
+#sobre_mi{background:0 0;margin-bottom:40px}
+#sobre_mi p{background:0 0;color:#000;padding:0}
+#twitter{background:0 0}
+#twitter h3{font-size:30px}
+iframe{width:238px}
+#main_slideDown,.cerrar_slider,.text_slider{padding:1%;width:98%}
+#aptitudes,#blog,#contacto,#quien_soy,#trabajos{opacity:1}
+#quien_soy{background:#EDEBEB;z-index:10}
+.portfolio{font-size:40px}
+#main_slideDown{opacity:1;margin:0 auto;font-size:.8em}
+.text_slider:after,.text_slider:before{display:none}
+#cv{width:284px;margin:auto}
+.foto{margin:0}
+.descripcion h3,.mis_proyectos01,.mis_proyectos02,.mis_proyectos03,.mis_proyectos04,.mis_proyectos05,.mis_proyectos06{margin:0 0 10px}
+.foto img{width:100%}
+#foto_cv a{width:92%;font-size:18px}
+.descripcion,.foto{float:none;width:100%}
+.descripcion h3{font-size:12px}
+#proyectos,.mis_proyectos01 img,.mis_proyectos02 img,.mis_proyectos03 img,.mis_proyectos04 img,.mis_proyectos05 img,.mis_proyectos06 img{width:100%}
+.post,.post_end,form{margin:0 auto 10px;display:block}
+.info01 a,.info02 a,.info03 a,.info04 a,.info05 a,.info06 a{font-size:24px}
+.main_descript p{font-size:.8em}
+.info01,.info02,.info03{width:78%;height:78%}
+.info04,.info05{width:78%;height:55%}
+.info06{width:78%;height:48%}
+.post,.post_end{width:256px}
+.intro_blog{font-size:112%}
+.post img,.post_end img{width:240px;height:130px}
+.title_post{font-size:28px}
+#textarea_form:before{top:151px;left:13px}
+#email,#message,#name,#tel{width:90%;margin-left:5%}
+#input_form,#telefono,#textarea_form{display:block;width:100%;margin:auto}
+#envio{width:92%;margin-left:5%}
+form{width:100%;float:none}
+#telefono{margin:auto;display:block;width:182px;float:none}
+#center_footer{margin-bottom:15px;width:100%}
+footer p{margin:0}
+#social a{width:40px;height:40px;margin:0 4px;display:inline-block}
+.textSocial{display:block;margin-bottom:20px}
+footer .up:before{left:30px;top:-12px}
+#aptitudes p{width:192px;font-size:14px}
+#wrapper_top{padding:0;width:86%}
+progress{width:98%;height:24px}
+#aptitudes h2,#blog h2,#contacto h2,#foto_cv h2,#main_contents_left h2{font-size:57px;margin:0 0 20px;opacity:1;left:0}
+#contacto h2,#main_contents_left h2{margin:0 0 20px 20px}
+#trabajos h2{margin:0 0 20px .8844955%}
+#contents{margin-top:0;padding-top:100px}
+.entradas{width:100%}
+.entradas img{max-width:460px;width:98%}
+}
+@media screen and (min-width:480px) and (max-width:600px){#jm,#telefono,.left,form,nav{float:none}
+#center_footer,#menuSidebar,#social,.intro_blog,.linksMedios,.title_post,nav li{text-align:center}
+.image-md{display:none}
+.image-sm{display:block}
+.galery .imageFrame{width:100%!important;top:0!important}
+#main_contents_right,.up{top:0}
+.instagram{display:block!important;width:100%!important;margin:5px 0!important}
+.ribbon{display:none}
+.bxTextMedios{width:100%}
+.bxTextMedios .title_menciones{font-size:50px}
+.icon_medio{margin-bottom:10px}
+#jm,nav ul{margin:auto}
+.layer1{background-size:11%;background-position:10% 5%}
+.layer2{background-size:40%;background-position:30% 10%}
+.layer3{background-size:50%;background-position:84% 80%}
+.layer4{background-size:30%;background-position:60% bottom}
+.layer5{background-size:20%;background-position:20% 80%}
+.boxFrases .bxImages{display:block;width:100%}
+#box_indicador,#flecha:after,#flecha:before,#menuSidebar a:hover>.sidebarTextHidden,nav{display:none}
+.wrapper{width:94%}
+.job01{max-width:525px}
+video{max-width:480px;width:100%}
+#menuSidebar{display:block;width:100%;bottom:0;left:0;top:inherit;margin:0;z-index:999;border-radius:0}
+#menuSidebar a{display:inline-block;margin:0 5px;vertical-align:top;background-position:0!important}
+#jm,nav li{display:block}
+#jm{width:303px}
+#miSkill p{font-size:14px}
+nav{width:100%;height:700px;padding:30px 0}
+.animation{margin-top:2px}
+#social{margin-top:20px}
+#containerPortfolio{width:96%;margin:0 auto 40px}
+#trabajos h2{font-size:46px;margin-left:15px}
+nav li{padding:7px 3px;margin-right:0!important;font-size:30px}
+#responsive_menu{display:block;margin:10px auto}
+.box_miFoto{left:50%;margin:0 0 20px -100px}
+.box_text_sobreMi{width:100%;margin-left:0;padding:220px 15px 15px;border-radius:10px;background:#fff;color:#000}
+.accion:before{right:34%}
+.accion:after{left:36%}
+.portfolio{font-size:46px}
+.cerrar_slider:after,.cerrar_slider:before,.text_slider:after,.text_slider:before{display:none}
+#main_contents_left h2{width:100%;margin-bottom:20px;font-size:46px}
+#musica,#video{width:100%}
+#main_contents_left,#main_contents_right{float:none;opacity:1;margin:auto;width:100%}
+#musica p:before{margin:252px 50px 0 0}
+#main_contents_right h3{width:386px;font-size:38px;padding:0;margin:0 auto 10px}
+#frases p{font-size:22px}
+#main_contents_right,#sobre_mi,#twitter{margin:0 auto 30px;width:100%}
+#trabajos{padding:40px 0 0}
+.mis_trabajos{width:100%;box-sizing:border-box;margin:2px 0}
+#aptitudes,#blog,#contacto,#quien_soy{padding:40px 0}
+h2{left:0}
+#main_slideDown{opacity:1}
+.indicador{width:40%}
+.cerrar_slider,.text_slider{padding:1%;width:98%}
+#proyectos{width:98%;margin:auto}
+.mis_proyectos01 img,.mis_proyectos02 img,.mis_proyectos03 img,.mis_proyectos04 img,.mis_proyectos05 img,.mis_proyectos06 img{width:100%}
+.mis_proyectos01,.mis_proyectos02,.mis_proyectos03,.mis_proyectos04,.mis_proyectos05,.mis_proyectos06{margin:0 0 10px}
+.post,.post_end,form{margin:0 auto 10px;display:block}
+.info01 a,.info02 a,.info03 a,.info04 a,.info05 a,.info06 a{font-size:24px}
+.info01,.info02,.info03{width:85%;height:83%}
+.info04,.info05{width:86%;height:67%}
+.info06{width:86%;height:62%}
+.post,.post_end{width:384px}
+.intro_blog{font-size:112%}
+.post img,.post_end img{width:100%;height:100%}
+.title_post{font-size:28px}
+#aptitudes h2,#contacto h2{font-size:46px}
+#email,#message,#name,#tel{width:406px}
+#input_form,#telefono,#textarea_form{display:block;width:417px;margin:auto}
+form{width:420px}
+#telefono{margin:auto;display:block;width:182px}
+footer a{display:block}
+#center_footer{margin-bottom:15px;width:100%}
+#social a{width:24px;display:inline-block}
+#wrapper_top{width:90%;padding-bottom:10px}
+#wrapper_top01{top:0;box-shadow:none}
+#aptitudes p{width:308px;font-size:24px}
+progress{width:98%;height:24px}
+#musica p,#video p{color:#3F3F3F}
+.entradas img{max-width:598px;width:98%}
+}
+@media screen and (min-width:600px) and (max-width:768px){#social,.intro_blog,.linksMedios,.title_post{text-align:center}
+#jm,#telefono,.left,form,nav{float:none}
+.image-md{display:none}
+.image-sm{display:block}
+.ribbon{display:none}
+.bxTextMedios{width:100%}
+.icon_medio{margin-bottom:10px}
+#jm,nav,nav ul{margin:auto}
+.layer1{background-size:11%;background-position:10% 5%}
+.layer2{background-size:40%;background-position:30% 10%}
+.layer3{background-size:50%;background-position:84% 80%}
+.layer4{background-size:30%;background-position:60% bottom}
+.layer5{background-size:20%;background-position:20% 80%}
+#wrapper_top,#wrapper_top01,.wrapper{width:94%}
+#jm{display:block;width:303px}
+#responsive_menu{display:block;display:none}
+#box_indicador,#flecha:after,#flecha:before,.cerrar_slider:after,.cerrar_slider:before,.text_slider:after,.text_slider:before,nav,nav ul{display:none}
+nav ul{width:316px}
+nav{width:366px;top:0}
+#social{margin-top:20px}
+nav li{margin-right:0;padding:7px 3px}
+#main_header:after{top:645px}
+.accion:before{right:40%}
+.accion:after{left:41%}
+.foto img,.mis_trabajos{max-width:100%;width:100%;margin:0}
+.mis_trabajos{margin-bottom:10px}
+.mis_trabajos:last-child{margin-bottom:20px}
+.descripcion{max-width:initial}
+#main_contents_left,#main_contents_right{float:none;margin:auto;width:100%;max-width:100%}
+#main_contents_right{margin:10px auto}
+#frases{padding:0;margin-bottom:60px}
+#aptitudes,#blog,#contacto,#quien_soy,#trabajos{height:100%;padding:18px 0}
+#proyectos{width:544px;margin:auto}
+#frases,#musica,#video{width:100%;margin:0 auto 20px}
+.my_music_fav{margin:360px 280px 0 0}
+.post,.post_end,form{margin:0 auto 10px;display:block}
+.mis_proyectos01 img,.mis_proyectos02 img,.mis_proyectos03 img,.mis_proyectos04 img,.mis_proyectos05 img,.mis_proyectos06 img{width:239px}
+.info01 a,.info02 a,.info03 a,.info04 a,.info05 a,.info06 a{font-size:24px}
+.info01,.info02,.info03{width:77%;height:76%}
+.info04,.info05{width:77%;height:51%}
+.info06{width:77%;height:45%}
+.post,.post_end{width:526px}
+.intro_blog{font-size:112%}
+.post img,.post_end img{width:100%;height:100%}
+.title_post{font-size:32px}
+#email,#message,#name,#tel{width:406px}
+#input_form,#telefono,#textarea_form{display:block;width:417px;margin:auto}
+form{width:420px}
+#telefono{margin:auto;display:block;width:182px}
+footer p{margin:0 8px 0 35px}
+#social a{width:24px;display:inline-block}
+#aptitudes p{width:308px;font-size:24px}
+progress{width:96%;height:24px}
+}
+@media only screen and (min-width :768px) and (max-width :1023px){#social,.linksMedios,.title_post{text-align:center}
+.image-md{display:block}
+#flecha:after,#flecha:before,.cerrar_slider:after,.cerrar_slider:before,.image-sm,.ribbon,.text_slider:after,.text_slider:before{display:none}
+.left{float:none}
+.bxTextMedios{width:100%}
+.icon_medio{margin-bottom:10px}
+#wrapper_top,.wrapper{width:90%}
+#quien_soy .wrapper{width:100%}
+nav li{margin-right:0;padding:7px 3px 0 0}
+#main_header{height:580px}
+.accion:before{right:44%}
+.accion:after{left:44%}
+#aptitudes,#blog,#contacto,#quien_soy,#trabajos{height:100%}
+#containerPortfolio{width:96%;margin:auto}
+#contacto h2,#foto_cv h2,#main_contents_left h2,#trabajos h2{width:auto;display:inline-block}
+#trabajos h2{margin-left:20px}
+#main_contents_left,#main_contents_right{float:none;margin:auto;width:100%}
+#musica p:before{margin:258px 70px 0 0}
+#main_contents_right{margin:10px auto}
+#frases{padding:0}
+#proyectos{width:684px;margin:auto}
+.mis_proyectos03,.mis_proyectos06{margin:0 0 10px}
+.mis_proyectos01 img,.mis_proyectos02 img,.mis_proyectos03 img,.mis_proyectos04 img,.mis_proyectos05 img,.mis_proyectos06 img{width:198px}
+.info01,.info02,.info03{width:72%;height:72%}
+.info04,.info05{width:72%;height:44%}
+.info06{width:73%;height:38%}
+.info01 a,.info02 a,.info03 a,.info04 a,.info05 a,.info06 a{font-size:18px}
+.post,.post_end{width:618px;margin:0 auto 10px;display:block}
+#telefono,form{margin:auto;display:block;float:none}
+.intro_blog{font-size:112%}
+.post img,.post_end img{width:600px;height:350px}
+.title_post{font-size:32px}
+#email,#name,#tel{width:280px;height:37px}
+#input_form{margin:0 auto;display:block;width:290px}
+#textarea_form{display:block;margin:0 auto 10px;width:290px}
+#message{width:280px}
+#social{margin-top:20px}
+form{width:396px}
+#telefono{width:182px}
+.skill{width:100%}
+#aptitudes p{font-family:'Days One',sans-serif;margin:20px 20px 20px 0;width:349px;font-size:27px;display:inline-block;text-transform:uppercase}
+.text_skill{font-size:20px;margin:0 20px 0 0}
+progress{width:44%;height:24px}
+}
+@media only screen and (min-width :1023px) and (max-width :1220px){.ribbon{display:none}
+}
+@media only screen and (max-width :979px){.image-md{display:block}
+.image-sm{display:none}
+.galery .imageFrame{width:50%;float:none;margin:-2px}
+.galery .imgBig{width:100%}
+.galery .imgTop1{top:-80px}
+.galery .imgTop2{top:2px}
+.galery .imgTop3,.imgTop4{top:-80px}
+}
+.banner-desktop{display:block}
+.banner-mobile{display:none}
+@media only screen and (max-width :768px){.image-md{display:none}
+.image-sm{display:block}
+#quien_soy{padding-top:100px}
+#mentions .grid-item{width:100%}
+footer #center_footer{float:none;text-align:center}
+footer .boxTwitter{width:100%;text-align:center;margin:10px 0}
+.banner-desktop{display:none}
+.banner-mobile{display:block}
+}
+@media only screen and (min-width :1023px){.image-md{display:block}
+.image-sm{display:none}
+}
+@media only screen and (max-width :1023px){.grid{flex-flow:column}
+.grid-item{width:100%}
+}
