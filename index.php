@@ -45,6 +45,7 @@
 	<style>
       #map {
 		height: 600px;
+		
       }
     </style>
 
